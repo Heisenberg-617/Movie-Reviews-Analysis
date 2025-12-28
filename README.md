@@ -15,7 +15,7 @@ The goal is to combine predictive performance with interpretability, showing whi
 
 ## Dataset
 
-- **Source:** IMDB movie reviews dataset  
+- **Source:** IMDB movie reviews dataset : https://www.kaggle.com/datasets/mahmoudshaheen1134/imdp-data
 - **Features:** Raw text reviews  
 - **Target:** Sentiment label (`positive` or `negative`)  
 - **Subset:** A smaller subset (50,000 rows) is used for training due to computational cost  
